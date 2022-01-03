@@ -1,8 +1,6 @@
-Tugas Besar Analitas Kompleksitas Algoritma
+Tugas Besar Analisa Kompleksitas Algoritma
 
-algoritma :
-        1.Quick sort
-        2.Merge sort
+algoritma : Quick sort dan Merge sort
 
 Kelompok 11 (IF4407) :
 
